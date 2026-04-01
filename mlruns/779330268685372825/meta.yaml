@@ -1,0 +1,7 @@
+artifact_location: file:D:/fraud_detection/mlruns/779330268685372825
+creation_time: 1775033548036
+experiment_id: '779330268685372825'
+last_update_time: 1775033548036
+lifecycle_stage: active
+name: MLflow Demo
+workspace: default

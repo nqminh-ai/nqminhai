@@ -1,0 +1,14 @@
+artifact_uri: file:d:/fraud_detection/notebooks/../mlruns/796413145145097095/791ef989fc774b04a875a2b373898caf/artifacts
+end_time: 1775033155646
+entry_point_name: ''
+experiment_id: '796413145145097095'
+lifecycle_stage: active
+run_id: 791ef989fc774b04a875a2b373898caf
+run_name: Decision Tree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775033155627
+status: 3
+tags: []
+user_id: minh4

@@ -1,0 +1,14 @@
+artifact_uri: file:d:/fraud_detection/notebooks/../mlruns/796413145145097095/c08a0426312d425ab10f9818354a25de/artifacts
+end_time: 1775033167796
+entry_point_name: ''
+experiment_id: '796413145145097095'
+lifecycle_stage: active
+run_id: c08a0426312d425ab10f9818354a25de
+run_name: XGBoost Tuned - Final
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775033158959
+status: 3
+tags: []
+user_id: minh4

@@ -1,0 +1,7 @@
+artifact_location: file:d:/fraud_detection/notebooks/../mlruns/796413145145097095
+creation_time: 1775033152327
+experiment_id: '796413145145097095'
+last_update_time: 1775033152327
+lifecycle_stage: active
+name: fraud-detection
+workspace: default

@@ -1,0 +1,10 @@
+artifact_location: file:d:/fraud_detection/notebooks/../mlruns/796413145145097095/models/m-cd5142ac86204ec5b40ffb11dafe03fd/artifacts
+creation_timestamp: 1775033159045
+experiment_id: '796413145145097095'
+last_updated_timestamp: 1775033167783
+model_id: m-cd5142ac86204ec5b40ffb11dafe03fd
+model_type: null
+name: xgb_tuned_model
+source_run_id: c08a0426312d425ab10f9818354a25de
+status: 2
+status_message: null

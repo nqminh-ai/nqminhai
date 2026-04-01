@@ -1,0 +1,14 @@
+artifact_uri: file:d:/fraud_detection/notebooks/../mlruns/796413145145097095/796cefde6c5545f7b3309a9d0a857ef7/artifacts
+end_time: 1775033155716
+entry_point_name: ''
+experiment_id: '796413145145097095'
+lifecycle_stage: active
+run_id: 796cefde6c5545f7b3309a9d0a857ef7
+run_name: LightGBM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775033155700
+status: 3
+tags: []
+user_id: minh4

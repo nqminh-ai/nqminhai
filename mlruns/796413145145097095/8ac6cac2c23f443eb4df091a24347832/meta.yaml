@@ -1,0 +1,14 @@
+artifact_uri: file:d:/fraud_detection/notebooks/../mlruns/796413145145097095/8ac6cac2c23f443eb4df091a24347832/artifacts
+end_time: 1775033155623
+entry_point_name: ''
+experiment_id: '796413145145097095'
+lifecycle_stage: active
+run_id: 8ac6cac2c23f443eb4df091a24347832
+run_name: Logistic Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775033155603
+status: 3
+tags: []
+user_id: minh4

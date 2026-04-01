@@ -1,0 +1,8 @@
+aliases: {}
+creation_timestamp: 1775033548373
+deployment_job_id: null
+deployment_job_state: null
+description: Initial summarization prompt
+last_updated_timestamp: 1775033548421
+name: mlflow-demo.prompts.document-summarizer
+workspace: default

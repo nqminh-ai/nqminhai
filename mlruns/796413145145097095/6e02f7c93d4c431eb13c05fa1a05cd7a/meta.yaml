@@ -1,0 +1,14 @@
+artifact_uri: file:d:/fraud_detection/notebooks/../mlruns/796413145145097095/6e02f7c93d4c431eb13c05fa1a05cd7a/artifacts
+end_time: 1775033155670
+entry_point_name: ''
+experiment_id: '796413145145097095'
+lifecycle_stage: active
+run_id: 6e02f7c93d4c431eb13c05fa1a05cd7a
+run_name: LSTM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775033155650
+status: 3
+tags: []
+user_id: minh4
